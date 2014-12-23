@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gitzurmo.iml" filepath="$PROJECT_DIR$/.idea/gitzurmo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zurmo.iml" filepath="$PROJECT_DIR$/.idea/zurmo.iml" />
     </modules>
   </component>
 </project>
