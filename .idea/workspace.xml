@@ -4,15 +4,15 @@
     <list default="true" id="23e869de-8a28-449e-b1c4-cadc3854cc11" name="Default" comment="" />
     <ignored path="zurmo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="$PROJECT_DIR$/../coy-xcrm/app/protected/config/perInstance.php" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414734569533" ignored="false" />
-    <file path="$PROJECT_DIR$/../emailCampaigns/editor.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414734719431" ignored="false" />
-    <file path="$PROJECT_DIR$/../emailCampaigns/coy.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414729046245" ignored="false" />
+    <file path="E:/coy-xcrm/app/protected/config/perInstance.php" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414734569533" ignored="false" />
+    <file path="E:/emailCampaigns/editor.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414734719431" ignored="false" />
+    <file path="E:/emailCampaigns/coy.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414729046245" ignored="false" />
     <file path="/coy.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414728863661" ignored="false" />
-    <file path="$PROJECT_DIR$/../emailCampaigns/css/bootstrap.css" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414729745030" ignored="false" />
+    <file path="E:/emailCampaigns/css/bootstrap.css" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414729745030" ignored="false" />
     <file path="/editor.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414734632242" ignored="false" />
-    <file path="$PROJECT_DIR$/../emailCampaigns/new.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414737454993" ignored="false" />
+    <file path="E:/emailCampaigns/new.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414737454993" ignored="false" />
     <file path="/new.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414736672622" ignored="false" />
-    <file path="$PROJECT_DIR$/../emailCampaigns/demo.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414738018318" ignored="false" />
+    <file path="E:/emailCampaigns/demo.html" changelist="23e869de-8a28-449e-b1c4-cadc3854cc11" time="1414738018318" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,29 +33,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/index.php">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="2" selection-start="3406" selection-end="3406" vertical-scroll-proportion="0.8422939">
-              <folding>
-                <element signature="e#10#2122#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="perInstance.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/protected/config/perInstance.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="50" selection-start="3823" selection-end="3838" vertical-scroll-proportion="-21.32258">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/protected/config/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -81,7 +61,7 @@
         <option value="$PROJECT_DIR$/app/protected/extensions/customZurmoModule/components/ZurmoModuleCustomManagement.php" />
         <option value="$PROJECT_DIR$/app/protected/modules/accounts/views/AccountEditAndDetailsView.php" />
         <option value="$PROJECT_DIR$/app/protected/modules/emailCampaigns/EmailCampaignsModule.php" />
-        <option value="$PROJECT_DIR$/../test/test.php.txt" />
+        <option value="E:/test/test.php.txt" />
         <option value="$PROJECT_DIR$/2.php" />
         <option value="$PROJECT_DIR$/3.php" />
         <option value="$PROJECT_DIR$/app/protected/modules/emailCampaigns/controllers/DefaultController.php" />
@@ -227,6 +207,23 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="23e869de-8a28-449e-b1c4-cadc3854cc11" name="Default" comment="" />
@@ -236,14 +233,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="36" width="1932" height="1056" extended-state="1" />
-    <editor active="false" />
+    <frame x="19" y="36" width="1932" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21871658" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22139038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -327,97 +324,9 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/protected/modules/zurmo/views/ErrorView.php">
+    <entry file="file://$PROJECT_DIR$/app/protected/config/perInstance.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="12" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/protected/modules/zurmo/views/FooterView.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/protected/modules/emailCampaigns/controllers/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="141" column="2" selection-start="5310" selection-end="5310" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="27.64516">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/protected/config/common.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="163.93549">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/version.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="90" selection-start="2184" selection-end="2214" vertical-scroll-proportion="-2.1290324">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/protected/config/debugDIST.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1398643648000" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/protected/config/debug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1414032275641" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/roots.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="61" selection-start="2637" selection-end="2637" vertical-scroll-proportion="0.34169653">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_7.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="310" column="9" selection-start="9391" selection-end="9391" vertical-scroll-proportion="0.18757467">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="67" column="50" selection-start="3823" selection-end="3838" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -429,19 +338,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/protected/modules/zurmo/views/ErrorView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="12" selection-start="2444" selection-end="2444" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/protected/modules/zurmo/views/FooterView.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/protected/modules/emailCampaigns/controllers/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="141" column="2" selection-start="5310" selection-end="5310" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="27.64516" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/protected/config/common.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="163.93549" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/version.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="90" selection-start="2184" selection-end="2214" vertical-scroll-proportion="-2.1290324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/protected/config/debugDIST.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/protected/config/debug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/roots.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="61" selection-start="2637" selection-end="2637" vertical-scroll-proportion="0.34169653" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="310" column="9" selection-start="9391" selection-end="9391" vertical-scroll-proportion="0.18757467" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/protected/config/perInstance.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="50" selection-start="3823" selection-end="3838" vertical-scroll-proportion="-21.32258">
+        <state line="67" column="50" selection-start="3823" selection-end="3838" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="2" selection-start="3406" selection-end="3406" vertical-scroll-proportion="0.8422939">
+        <state line="74" column="2" selection-start="3406" selection-end="3406" vertical-scroll-proportion="0.87216246">
           <folding>
             <element signature="e#10#2122#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
