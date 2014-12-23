@@ -1,0 +1,1149 @@
+2014/10/23 10:50:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "emailcampaigns".' in D:\WWW\zurmo\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailcampaigns')
+#1 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#3 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#4 {main}
+REQUEST_URI=/zurmo/app/index.php/emailcampaigns
+---
+2014/10/23 10:53:34 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(66): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#12 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 10:54:44 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(66): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#12 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 10:55:06 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(66): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#12 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 10:58:11 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(66): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#12 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 11:00:51 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(66): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#12 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 11:01:20 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(66): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#12 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 11:28:19 [error] [exception.CException] exception 'CException' with message 'emailCampaignsDefaultController and its behaviors do not have a method or closure named "getListBreadcrumbLinks".' in D:\WWW\zurmo\yii\framework\base\CComponent.php:265
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(33): CComponent->__call('getListBreadcru...', Array)
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(33): emailCampaignsDefaultController->getListBreadcrumbLinks()
+#2 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 11:43:32 [error] [exception.CException] exception 'CException' with message 'emailCampaignsDefaultController and its behaviors do not have a method or closure named "getListBreadcrumbLinks".' in D:\WWW\zurmo\yii\framework\base\CComponent.php:265
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(18): CComponent->__call('getListBreadcru...', Array)
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(18): emailCampaignsDefaultController->getListBreadcrumbLinks()
+#2 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 11:44:37 [error] [exception.CException] exception 'CException' with message 'Property "RightsControllerFilter.controller" is not defined.' in D:\WWW\zurmo\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\YiiBase.php(220): CComponent->__set('controller', Object(emailCampaignsDefaultController))
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(89): YiiBase::createComponent(Array)
+#2 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain::create(Object(emailCampaignsDefaultController), Object(CInlineAction), Array)
+#3 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#5 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#6 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#7 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#8 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#9 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 11:47:21 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(66): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#12 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 11:47:36 [error] [php] rmdir(D:\WWW\zurmo\app\assets/5788850/amChart/exporting): Directory not empty (D:\WWW\zurmo\app\protected\core\utils\FileUtil.php:204)
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\core\utils\FileUtil.php(198): deleteDirectoryRecursive()
+#1 D:\WWW\zurmo\app\protected\core\utils\FileUtil.php(198): deleteDirectoryRecursive()
+#2 D:\WWW\zurmo\app\protected\modules\zurmo\components\BeginRequestBehavior.php(604): deleteDirectoryRecursive()
+#3 D:\WWW\zurmo\app\protected\modules\zurmo\components\BeginRequestBehavior.php(592): BeginRequestBehavior->clearCacheDirectory()
+#4 D:\WWW\zurmo\app\protected\modules\zurmo\components\BeginRequestBehavior.php(435): BeginRequestBehavior->clearCacheDirectories()
+#5 D:\WWW\zurmo\yii\framework\base\CComponent.php(558): BeginRequestBehavior->handleClearCache()
+#6 D:\WWW\zurmo\yii\framework\base\CApplication.php(196): WebApplication->raiseEvent()
+#7 D:\WWW\zurmo\yii\framework\base\CApplication.php(167): WebApplication->onBeginRequest()
+#8 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#9 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/zurmo/development?clearCache=1
+2014/10/23 11:48:38 [error] [php] Argument 2 passed to ZurmoDefaultViewUtil::makeStandardViewForCurrentUser() must be an instance of View, array given, called in D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php on line 48 and defined (D:\WWW\zurmo\app\protected\modules\zurmo\utils\ZurmoDefaultViewUtil.php:136)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 11:55:43 [error] [php] Argument 2 passed to ZurmoDefaultViewUtil::makeStandardViewForCurrentUser() must be an instance of View, array given, called in D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php on line 48 and defined (D:\WWW\zurmo\app\protected\modules\zurmo\utils\ZurmoDefaultViewUtil.php:136)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 11:58:43 [error] [exception.CException] exception 'CException' with message 'Property "RightsControllerFilter.controller" is not defined.' in D:\WWW\zurmo\yii\framework\base\CComponent.php:173
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\YiiBase.php(220): CComponent->__set('controller', Object(emailCampaignsDefaultController))
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(89): YiiBase::createComponent(Array)
+#2 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain::create(Object(emailCampaignsDefaultController), Object(CInlineAction), Array)
+#3 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#5 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#6 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#7 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#8 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#9 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 12:00:13 [error] [php] Argument 2 passed to ZurmoDefaultViewUtil::makeStandardViewForCurrentUser() must be an instance of View, array given, called in D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php on line 62 and defined (D:\WWW\zurmo\app\protected\modules\zurmo\utils\ZurmoDefaultViewUtil.php:136)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:04:44 [error] [php] include(EmailCampaignClientScript.php): failed to open stream: No such file or directory (D:\WWW\zurmo\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(13): spl_autoload_call()
+#1 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#2 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#3 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#4 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#5 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:06:17 [error] [php] include(EmailCampaignClientScript.php): failed to open stream: No such file or directory (D:\WWW\zurmo\yii\framework\YiiBase.php:421)
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(13): spl_autoload_call()
+#1 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#2 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#3 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#4 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#5 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:13:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "edit".' in D:\WWW\zurmo\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CController.php(270): CController->missingAction('edit')
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): CController->run('edit')
+#2 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('edit')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns/...')
+#4 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#6 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#7 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/default/edit?id=-21
+HTTP_REFERER=http://localhost/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 12:13:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "marketingList".' in D:\WWW\zurmo\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CController.php(270): CController->missingAction('marketingList')
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): CController->run('marketingList')
+#2 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('marketingList')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns/...')
+#4 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#6 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#7 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/default/marketingList?id=-21
+HTTP_REFERER=http://localhost/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 12:19:49 [error] [php] Argument 2 passed to ZurmoDefaultViewUtil::makeStandardViewForCurrentUser() must be an instance of View, array given, called in D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php on line 52 and defined (D:\WWW\zurmo\app\protected\modules\zurmo\utils\ZurmoDefaultViewUtil.php:136)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#7 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#9 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#10 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#11 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#12 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:21:21 [error] [php] Undefined variable: mixedView (D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php:51)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#4 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#6 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): emailCampaignsDefaultController->run()
+#7 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#9 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#10 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#11 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:21:57 [error] [php] Argument 2 passed to ZurmoDefaultViewUtil::makeViewWithBreadcrumbsForCurrentUser() must be an instance of View, array given, called in D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php on line 52 and defined (D:\WWW\zurmo\app\protected\modules\zurmo\utils\ZurmoDefaultViewUtil.php:62)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#7 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#9 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#10 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#11 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#12 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:22:51 [error] [php] Argument 2 passed to ZurmoDefaultViewUtil::makeViewWithBreadcrumbsForCurrentUser() must be an instance of View, array given, called in D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php on line 52 and defined (D:\WWW\zurmo\app\protected\modules\zurmo\utils\ZurmoDefaultViewUtil.php:62)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#7 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#9 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#10 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#11 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#12 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:24:26 [error] [php] Argument 2 passed to ZurmoDefaultViewUtil::makeViewWithBreadcrumbsForCurrentUser() must be an instance of View, array given, called in D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php on line 52 and defined (D:\WWW\zurmo\app\protected\modules\zurmo\utils\ZurmoDefaultViewUtil.php:62)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#7 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#9 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#10 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#11 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#12 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:26:25 [error] [php] Argument 2 passed to ZurmoDefaultViewUtil::makeViewWithBreadcrumbsForCurrentUser() must be an instance of View, array given, called in D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php on line 52 and defined (D:\WWW\zurmo\app\protected\modules\zurmo\utils\ZurmoDefaultViewUtil.php:62)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#7 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#9 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#10 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#11 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#12 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:26:41 [error] [php] rmdir(D:\WWW\zurmo\app\assets/9babc6ad): Directory not empty (D:\WWW\zurmo\app\protected\core\utils\FileUtil.php:204)
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\components\BeginRequestBehavior.php(604): deleteDirectoryRecursive()
+#1 D:\WWW\zurmo\app\protected\modules\zurmo\components\BeginRequestBehavior.php(592): BeginRequestBehavior->clearCacheDirectory()
+#2 D:\WWW\zurmo\app\protected\modules\zurmo\components\BeginRequestBehavior.php(435): BeginRequestBehavior->clearCacheDirectories()
+#3 D:\WWW\zurmo\yii\framework\base\CComponent.php(558): BeginRequestBehavior->handleClearCache()
+#4 D:\WWW\zurmo\yii\framework\base\CApplication.php(196): WebApplication->raiseEvent()
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(167): WebApplication->onBeginRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/zurmo/development?clearCache=1
+2014/10/23 12:28:15 [error] [php] Argument 2 passed to ZurmoDefaultViewUtil::makeStandardViewForCurrentUser() must be an instance of View, array given, called in D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php on line 54 and defined (D:\WWW\zurmo\app\protected\modules\zurmo\utils\ZurmoDefaultViewUtil.php:136)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): emailCampaignsDefaultController->runAction()
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): RightsControllerFilter->filter()
+#5 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->runActionWithFilters()
+#7 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): emailCampaignsDefaultController->run()
+#8 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#9 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#10 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#11 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#12 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/23 12:29:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "edit".' in D:\WWW\zurmo\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CController.php(270): CController->missingAction('edit')
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): CController->run('edit')
+#2 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('edit')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns/...')
+#4 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#6 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#7 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/default/edit?id=-21
+HTTP_REFERER=http://localhost/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 12:29:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "marketingList".' in D:\WWW\zurmo\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CController.php(270): CController->missingAction('marketingList')
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): CController->run('marketingList')
+#2 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('marketingList')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns/...')
+#4 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#6 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#7 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/default/marketingList?id=-21
+HTTP_REFERER=http://localhost/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 12:29:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "content".' in D:\WWW\zurmo\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CController.php(270): CController->missingAction('content')
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): CController->run('content')
+#2 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('content')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns/...')
+#4 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#6 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#7 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/default/content?id=-21
+HTTP_REFERER=http://localhost/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 15:00:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "emailcampaigns".' in D:\WWW\zurmo\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailcampaigns')
+#1 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#2 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#3 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#4 {main}
+REQUEST_URI=/zurmo/app/index.php/emailcampaigns
+---
+2014/10/23 15:00:33 [error] [php] rmdir(D:\WWW\zurmo\app\assets/9babc6ad): Directory not empty (D:\WWW\zurmo\app\protected\core\utils\FileUtil.php:204)
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\components\BeginRequestBehavior.php(604): deleteDirectoryRecursive()
+#1 D:\WWW\zurmo\app\protected\modules\zurmo\components\BeginRequestBehavior.php(592): BeginRequestBehavior->clearCacheDirectory()
+#2 D:\WWW\zurmo\app\protected\modules\zurmo\components\BeginRequestBehavior.php(435): BeginRequestBehavior->clearCacheDirectories()
+#3 D:\WWW\zurmo\yii\framework\base\CComponent.php(558): BeginRequestBehavior->handleClearCache()
+#4 D:\WWW\zurmo\yii\framework\base\CApplication.php(196): WebApplication->raiseEvent()
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(167): WebApplication->onBeginRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/zurmo/development?clearCache=1
+2014/10/23 15:09:03 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\core\utils\ListAttributesSelector.php(60): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(59): ListAttributesSelector->__construct('CampaignsListVi...', 'emailCampaignsM...')
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(43): emailCampaignsDefaultController->actionDemo()
+#3 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#4 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#8 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(15): CController->run('')
+#11 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#12 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#13 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#15 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#16 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 15:11:28 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(66): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#2 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#3 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#5 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#7 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#8 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#9 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(23): CController->run('')
+#10 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#11 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#12 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#13 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#14 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#15 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 15:13:46 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.customZurmoModule.components.ZurmoModuleCustomManagement" is invalid. Make sure it points to an existing PHP file and the file is readable.' in D:\WWW\zurmo\yii\framework\YiiBase.php:316
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 D:\WWW\zurmo\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 D:\WWW\zurmo\yii\framework\base\CModule.php(103): CModule->getComponent('custom')
+#3 D:\WWW\zurmo\app\protected\core\views\MetadataView.php(154): CModule->__get('custom')
+#4 D:\WWW\zurmo\app\protected\core\views\MetadataView.php(118): MetadataView->renderElementBar(false, 'toolbar')
+#5 D:\WWW\zurmo\app\protected\core\views\ActionBarForSearchAndListView.php(95): MetadataView->renderActionElementBar(false)
+#6 D:\WWW\zurmo\app\protected\core\views\View.php(88): ActionBarForSearchAndListView->renderContent()
+#7 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#8 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#9 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#10 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#11 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#12 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#13 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#14 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#15 D:\WWW\zurmo\app\protected\modules\zurmo\views\ZurmoDefaultView.php(54): View->render()
+#16 D:\WWW\zurmo\app\protected\core\views\View.php(88): ZurmoDefaultView->renderContent()
+#17 D:\WWW\zurmo\app\protected\core\views\PageView.php(160): View->render()
+#18 D:\WWW\zurmo\app\protected\core\views\View.php(88): PageView->renderContent()
+#19 D:\WWW\zurmo\app\protected\core\views\PageView.php(75): View->render()
+#20 D:\WWW\zurmo\app\protected\modules\campaigns\controllers\filters\CampaignsZeroModelsCheckControllerFilter.php(67): PageView->render()
+#21 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(97): CampaignsZeroModelsCheckControllerFilter->resolveAndRenderView(Object(CampaignsZeroModelsYetView))
+#22 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#23 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#27 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#28 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#29 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#30 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#31 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('campaigns')
+#32 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#34 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#35 {main}
+REQUEST_URI=/zurmo/app/index.php/campaigns
+---
+2014/10/23 15:15:04 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.customZurmoModule.components.ZurmoModuleCustomManagement" is invalid. Make sure it points to an existing PHP file and the file is readable.' in D:\WWW\zurmo\yii\framework\YiiBase.php:316
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 D:\WWW\zurmo\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 D:\WWW\zurmo\yii\framework\base\CModule.php(103): CModule->getComponent('custom')
+#3 D:\WWW\zurmo\app\protected\core\views\MetadataView.php(154): CModule->__get('custom')
+#4 D:\WWW\zurmo\app\protected\core\views\MetadataView.php(118): MetadataView->renderElementBar(false, 'toolbar')
+#5 D:\WWW\zurmo\app\protected\core\views\ActionBarForSearchAndListView.php(95): MetadataView->renderActionElementBar(false)
+#6 D:\WWW\zurmo\app\protected\core\views\View.php(88): ActionBarForSearchAndListView->renderContent()
+#7 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#8 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#9 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#10 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#11 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#12 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#13 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#14 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#15 D:\WWW\zurmo\app\protected\modules\zurmo\views\ZurmoDefaultView.php(54): View->render()
+#16 D:\WWW\zurmo\app\protected\core\views\View.php(88): ZurmoDefaultView->renderContent()
+#17 D:\WWW\zurmo\app\protected\core\views\PageView.php(160): View->render()
+#18 D:\WWW\zurmo\app\protected\core\views\View.php(88): PageView->renderContent()
+#19 D:\WWW\zurmo\app\protected\core\views\PageView.php(75): View->render()
+#20 D:\WWW\zurmo\app\protected\modules\campaigns\controllers\filters\CampaignsZeroModelsCheckControllerFilter.php(67): PageView->render()
+#21 D:\WWW\zurmo\app\protected\modules\zurmo\controllers\filters\ZeroModelsCheckControllerFilter.php(97): CampaignsZeroModelsCheckControllerFilter->resolveAndRenderView(Object(CampaignsZeroModelsYetView))
+#22 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(38): ZeroModelsCheckControllerFilter->preFilter(Object(CFilterChain))
+#23 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#27 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#28 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#29 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#30 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('')
+#31 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('campaigns')
+#32 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#33 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#34 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#35 {main}
+REQUEST_URI=/zurmo/app/index.php/campaigns
+---
+2014/10/23 15:15:18 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\core\utils\ListAttributesSelector.php(60): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(75): ListAttributesSelector->__construct('CampaignsListVi...', 'emailCampaignsM...')
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(59): emailCampaignsDefaultController->actionDemo()
+#3 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): emailCampaignsDefaultController->actionIndex()
+#4 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#8 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#9 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#11 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#12 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#13 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#14 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#15 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#16 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 15:21:44 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(42): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 15:22:01 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(42): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 15:22:35 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(42): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 15:29:13 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(42): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/23 15:33:51 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.customZurmoModule.components.ZurmoModuleCustomManagement" is invalid. Make sure it points to an existing PHP file and the file is readable.' in D:\WWW\zurmo\yii\framework\YiiBase.php:316
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 D:\WWW\zurmo\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 D:\WWW\zurmo\yii\framework\base\CModule.php(103): CModule->getComponent('custom')
+#3 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(190): CModule->__get('custom')
+#4 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(139): DetailsView->resolveMetadataWithRenderedElements(Array, 2, Object(ZurmoActiveForm))
+#5 D:\WWW\zurmo\app\protected\core\views\EditAndDetailsView.php(108): DetailsView->renderFormLayout(Object(ZurmoActiveForm))
+#6 D:\WWW\zurmo\app\protected\core\views\View.php(88): EditAndDetailsView->renderContent()
+#7 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#8 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#9 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#10 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#11 D:\WWW\zurmo\app\protected\modules\zurmo\views\ZurmoDefaultView.php(54): View->render()
+#12 D:\WWW\zurmo\app\protected\core\views\View.php(88): ZurmoDefaultView->renderContent()
+#13 D:\WWW\zurmo\app\protected\core\views\PageView.php(160): View->render()
+#14 D:\WWW\zurmo\app\protected\core\views\View.php(88): PageView->renderContent()
+#15 D:\WWW\zurmo\app\protected\core\views\PageView.php(75): View->render()
+#16 D:\WWW\zurmo\app\protected\modules\accounts\controllers\DefaultController.php(124): PageView->render()
+#17 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): AccountsDefaultController->actionCreate()
+#18 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#19 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#20 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#21 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#22 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#27 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#29 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('accounts/defaul...')
+#30 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#31 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#32 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#33 {main}
+REQUEST_URI=/zurmo/app/index.php/accounts/default/create
+HTTP_REFERER=http://localhost/zurmo/app/index.php/accounts/default
+---
+2014/10/23 02:34:41 [error] [php] Trying to get property of non-object (D:\WWW\zurmo\app\protected\core\models\RedBeanModel.php:1312)
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\zurmo\models\Group.php(242): Group->__get()
+#1 D:\WWW\zurmo\app\protected\modules\zurmo\models\Group.php(119): Group->__get()
+#2 D:\WWW\zurmo\app\protected\modules\zurmo\models\Group.php(77): Group->setSpecialGroup()
+#3 D:\WWW\zurmo\app\protected\commands\UpdateSchemaCommand.php(81): getByName()
+#4 D:\WWW\zurmo\yii\framework\console\CConsoleCommandRunner.php(67): UpdateSchemaCommand->run()
+#5 D:\WWW\zurmo\yii\framework\console\CConsoleApplication.php(91): CConsoleCommandRunner->run()
+#6 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): ConsoleApplication->processRequest()
+#7 D:\WWW\zurmo\app\protected\commands\bootstrap.php(64): ConsoleApplication->run()
+#8 D:\WWW\zurmo\app\protected\commands\zurmoc.php(38): require_once()
+
+2014/10/23 15:35:07 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.customZurmoModule.components.ZurmoModuleCustomManagement" is invalid. Make sure it points to an existing PHP file and the file is readable.' in D:\WWW\zurmo\yii\framework\YiiBase.php:316
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 D:\WWW\zurmo\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 D:\WWW\zurmo\yii\framework\base\CModule.php(103): CModule->getComponent('custom')
+#3 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(190): CModule->__get('custom')
+#4 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(139): DetailsView->resolveMetadataWithRenderedElements(Array, 2, Object(ZurmoActiveForm))
+#5 D:\WWW\zurmo\app\protected\core\views\EditAndDetailsView.php(108): DetailsView->renderFormLayout(Object(ZurmoActiveForm))
+#6 D:\WWW\zurmo\app\protected\core\views\View.php(88): EditAndDetailsView->renderContent()
+#7 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#8 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#9 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#10 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#11 D:\WWW\zurmo\app\protected\modules\zurmo\views\ZurmoDefaultView.php(54): View->render()
+#12 D:\WWW\zurmo\app\protected\core\views\View.php(88): ZurmoDefaultView->renderContent()
+#13 D:\WWW\zurmo\app\protected\core\views\PageView.php(160): View->render()
+#14 D:\WWW\zurmo\app\protected\core\views\View.php(88): PageView->renderContent()
+#15 D:\WWW\zurmo\app\protected\core\views\PageView.php(75): View->render()
+#16 D:\WWW\zurmo\app\protected\modules\accounts\controllers\DefaultController.php(124): PageView->render()
+#17 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): AccountsDefaultController->actionCreate()
+#18 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#19 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#20 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#21 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#22 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#27 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#29 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('accounts/defaul...')
+#30 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#31 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#32 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#33 {main}
+REQUEST_URI=/zurmo/app/index.php/accounts/default/create
+---
+2014/10/23 15:35:07 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.customZurmoModule.components.ZurmoModuleCustomManagement" is invalid. Make sure it points to an existing PHP file and the file is readable.' in D:\WWW\zurmo\yii\framework\YiiBase.php:316
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 D:\WWW\zurmo\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 D:\WWW\zurmo\yii\framework\base\CModule.php(103): CModule->getComponent('custom')
+#3 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(190): CModule->__get('custom')
+#4 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(139): DetailsView->resolveMetadataWithRenderedElements(Array, 2, Object(ZurmoActiveForm))
+#5 D:\WWW\zurmo\app\protected\core\views\EditAndDetailsView.php(108): DetailsView->renderFormLayout(Object(ZurmoActiveForm))
+#6 D:\WWW\zurmo\app\protected\core\views\View.php(88): EditAndDetailsView->renderContent()
+#7 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#8 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#9 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#10 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#11 D:\WWW\zurmo\app\protected\modules\zurmo\views\ZurmoDefaultView.php(54): View->render()
+#12 D:\WWW\zurmo\app\protected\core\views\View.php(88): ZurmoDefaultView->renderContent()
+#13 D:\WWW\zurmo\app\protected\core\views\PageView.php(160): View->render()
+#14 D:\WWW\zurmo\app\protected\core\views\View.php(88): PageView->renderContent()
+#15 D:\WWW\zurmo\app\protected\core\views\PageView.php(75): View->render()
+#16 D:\WWW\zurmo\app\protected\modules\accounts\controllers\DefaultController.php(124): PageView->render()
+#17 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): AccountsDefaultController->actionCreate()
+#18 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#19 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#20 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#21 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#22 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#27 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#29 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('accounts/defaul...')
+#30 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#31 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#32 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#33 {main}
+REQUEST_URI=/zurmo/app/index.php/accounts/default/create
+---
+2014/10/23 15:35:22 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.customZurmoModule.components.ZurmoModuleCustomManagement" is invalid. Make sure it points to an existing PHP file and the file is readable.' in D:\WWW\zurmo\yii\framework\YiiBase.php:316
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 D:\WWW\zurmo\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 D:\WWW\zurmo\yii\framework\base\CModule.php(103): CModule->getComponent('custom')
+#3 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(190): CModule->__get('custom')
+#4 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(139): DetailsView->resolveMetadataWithRenderedElements(Array, 2, Object(ZurmoActiveForm))
+#5 D:\WWW\zurmo\app\protected\core\views\EditAndDetailsView.php(108): DetailsView->renderFormLayout(Object(ZurmoActiveForm))
+#6 D:\WWW\zurmo\app\protected\core\views\View.php(88): EditAndDetailsView->renderContent()
+#7 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#8 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#9 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#10 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#11 D:\WWW\zurmo\app\protected\modules\zurmo\views\ZurmoDefaultView.php(54): View->render()
+#12 D:\WWW\zurmo\app\protected\core\views\View.php(88): ZurmoDefaultView->renderContent()
+#13 D:\WWW\zurmo\app\protected\core\views\PageView.php(160): View->render()
+#14 D:\WWW\zurmo\app\protected\core\views\View.php(88): PageView->renderContent()
+#15 D:\WWW\zurmo\app\protected\core\views\PageView.php(75): View->render()
+#16 D:\WWW\zurmo\app\protected\modules\accounts\controllers\DefaultController.php(124): PageView->render()
+#17 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): AccountsDefaultController->actionCreate()
+#18 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#19 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#20 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#21 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#22 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#27 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#29 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('accounts/defaul...')
+#30 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#31 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#32 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#33 {main}
+REQUEST_URI=/zurmo/app/index.php/accounts/default/create
+---
+2014/10/23 15:35:37 [error] [exception.CException] exception 'CException' with message 'Alias "application.extensions.customZurmoModule.components.ZurmoModuleCustomManagement" is invalid. Make sure it points to an existing PHP file and the file is readable.' in D:\WWW\zurmo\yii\framework\YiiBase.php:316
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\YiiBase.php(196): YiiBase::import('application.ext...', true)
+#1 D:\WWW\zurmo\yii\framework\base\CModule.php(386): YiiBase::createComponent(Array)
+#2 D:\WWW\zurmo\yii\framework\base\CModule.php(103): CModule->getComponent('custom')
+#3 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(190): CModule->__get('custom')
+#4 D:\WWW\zurmo\app\protected\core\views\DetailsView.php(139): DetailsView->resolveMetadataWithRenderedElements(Array, 2, Object(ZurmoActiveForm))
+#5 D:\WWW\zurmo\app\protected\core\views\EditAndDetailsView.php(108): DetailsView->renderFormLayout(Object(ZurmoActiveForm))
+#6 D:\WWW\zurmo\app\protected\core\views\View.php(88): EditAndDetailsView->renderContent()
+#7 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#8 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#9 D:\WWW\zurmo\app\protected\core\views\GridView.php(155): View->render()
+#10 D:\WWW\zurmo\app\protected\core\views\View.php(88): GridView->renderContent()
+#11 D:\WWW\zurmo\app\protected\modules\zurmo\views\ZurmoDefaultView.php(54): View->render()
+#12 D:\WWW\zurmo\app\protected\core\views\View.php(88): ZurmoDefaultView->renderContent()
+#13 D:\WWW\zurmo\app\protected\core\views\PageView.php(160): View->render()
+#14 D:\WWW\zurmo\app\protected\core\views\View.php(88): PageView->renderContent()
+#15 D:\WWW\zurmo\app\protected\core\views\PageView.php(75): View->render()
+#16 D:\WWW\zurmo\app\protected\modules\accounts\controllers\DefaultController.php(124): PageView->render()
+#17 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(49): AccountsDefaultController->actionCreate()
+#18 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#19 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#20 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#21 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#22 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#23 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#24 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#25 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#26 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#27 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#28 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): CController->run('create')
+#29 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('accounts/defaul...')
+#30 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#31 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#32 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#33 {main}
+REQUEST_URI=/zurmo/app/index.php/accounts/default/create
+HTTP_REFERER=http://localhost/zurmo/app/index.php/accounts/
+---
+2014/10/23 16:09:15 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns?clearCache=1&clearingSearch=1&resolveCustomData=1
+---
+2014/10/24 10:47:10 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 10:48:51 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 10:49:47 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 10:50:55 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(62): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 10:58:21 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(50): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): emailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 10:58:44 [error] [php] Undefined variable: modelClassName (D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php:51)
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run()
+#1 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): WebApplication->runController()
+#2 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): WebApplication->processRequest()
+#3 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): WebApplication->run()
+#4 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+2014/10/24 11:01:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "content".' in D:\WWW\zurmo\yii\framework\web\CController.php:483
+Stack trace:
+#0 D:\WWW\zurmo\yii\framework\web\CController.php(270): CController->missingAction('content')
+#1 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('content')
+#2 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('content')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns/...')
+#4 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#5 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#6 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#7 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/default/content?id=-21
+HTTP_REFERER=http://127.0.0.1/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 11:04:57 [error] [exception.NotFoundException] exception 'NotFoundException' in D:\WWW\zurmo\app\protected\core\models\RedBeanModel.php:385
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(95): RedBeanModel::getById(-21)
+#1 [internal function]: emailCampaignsDefaultController->actionContent('-21')
+#2 D:\WWW\zurmo\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(emailCampaignsDefaultController), Array)
+#3 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(emailCampaignsDefaultController), Object(ReflectionMethod), Array)
+#4 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#8 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#10 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('content')
+#13 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('content')
+#14 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns/...')
+#15 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#17 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#18 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/default/content?id=-21
+---
+2014/10/24 11:05:55 [error] [exception.NotFoundException] exception 'NotFoundException' in D:\WWW\zurmo\app\protected\core\models\RedBeanModel.php:385
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(95): RedBeanModel::getById(-21)
+#1 [internal function]: emailCampaignsDefaultController->actionContent('-21')
+#2 D:\WWW\zurmo\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(emailCampaignsDefaultController), Array)
+#3 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(emailCampaignsDefaultController), Object(ReflectionMethod), Array)
+#4 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#8 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#10 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('content')
+#13 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('content')
+#14 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns/...')
+#15 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#17 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#18 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/default/content?id=-21
+---
+2014/10/24 11:06:09 [error] [exception.NotFoundException] exception 'NotFoundException' in D:\WWW\zurmo\app\protected\core\models\RedBeanModel.php:385
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(95): RedBeanModel::getById(-21)
+#1 [internal function]: emailCampaignsDefaultController->actionContent('-21')
+#2 D:\WWW\zurmo\yii\framework\web\actions\CAction.php(108): ReflectionMethod->invokeArgs(Object(emailCampaignsDefaultController), Array)
+#3 D:\WWW\zurmo\yii\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(emailCampaignsDefaultController), Object(ReflectionMethod), Array)
+#4 D:\WWW\zurmo\yii\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#8 D:\WWW\zurmo\yii\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 D:\WWW\zurmo\yii\framework\web\filters\CFilterChain.php(130): CFilter->filter(Object(CFilterChain))
+#10 D:\WWW\zurmo\yii\framework\web\CController.php(291): CFilterChain->run()
+#11 D:\WWW\zurmo\yii\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('content')
+#13 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): emailCampaignsDefaultController->run('content')
+#14 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns/...')
+#15 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#16 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#17 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#18 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/default/content?id=-21
+HTTP_REFERER=http://127.0.0.1/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 11:10:38 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(50): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): EmailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): EmailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 11:13:02 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(50): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): EmailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): EmailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 11:14:30 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): EmailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): EmailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 12:04:52 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): EmailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): EmailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 12:09:04 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): EmailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): EmailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 13:30:25 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): EmailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): EmailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/24 13:31:03 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): EmailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): EmailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns/?clearCache=1&clearingSearch=1&resolveCustomData=1
+---
+2014/10/24 13:31:11 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): EmailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): EmailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
+2014/10/27 10:10:35 [error] [exception.NotSupportedException] exception 'NotSupportedException' in D:\WWW\zurmo\app\protected\core\modules\Module.php:450
+Stack trace:
+#0 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(30): Module::getPrimaryModelName()
+#1 D:\WWW\zurmo\yii\framework\web\CController.php(265): EmailCampaignsDefaultController->filters()
+#2 D:\WWW\zurmo\app\protected\modules\emailCampaigns\controllers\DefaultController.php(14): CController->run('')
+#3 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(282): EmailCampaignsDefaultController->run('')
+#4 D:\WWW\zurmo\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('emailCampaigns')
+#5 D:\WWW\zurmo\yii\framework\base\CApplication.php(169): CWebApplication->processRequest()
+#6 D:\WWW\zurmo\app\protected\core\components\WebApplication.php(75): CApplication->run()
+#7 D:\WWW\zurmo\app\index.php(70): WebApplication->run()
+#8 {main}
+REQUEST_URI=/zurmo/app/index.php/emailCampaigns
+---
